@@ -1,5 +1,5 @@
 <h1 align="left">I'm Preston</h1>
-<h3 align="left">A passionate developer from Oklahoma</h3>
+<h3 align="left">A developer from Oklahoma</h3>
 
 - 🔭 I’m currently working on **Drug Repurposing using Machine Learning**
 
