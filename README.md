@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Drug Repurposing using Machine Learning**
 
-- 🌱 I’m currently learning **Computational Finance**
+- 🌱 I’m currently learning **how to improve the world**
 
 - 📫 How to reach me **prestondjones7@gmail.com**
 
