@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Drug Repurposing using Machine Learning**
 
-- 🌱 I’m currently learning **AI + Biology**
+- 🌱 I’m currently learning **AI + Fintech**
 
 - 📫 How to reach me **prestondjones7@gmail.com**
 
