@@ -5,8 +5,6 @@
 
 - I’m currently learning **AI + Finance**
 
-- Email: **prestondjones7@gmail.com**
-
 ###
 
 <div align="left">
