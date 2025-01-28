@@ -5,7 +5,7 @@
 
 - I’m currently learning **AI + Finance**
 
-- How to reach me **prestondjones7@gmail.com**
+- Email: **prestondjones7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
