@@ -1,11 +1,11 @@
 <h1 align="left">My name is Preston</h1>
 <h3 align="left">A developer from Oklahoma</h3>
 
-- 🔭 I’m currently working on **Drug Repurposing using Machine Learning**
+- I’m currently working on **Drug Repurposing using Machine Learning**
 
-- 🌱 I’m currently learning **AI + Finance**
+- I’m currently learning **AI + Finance**
 
-- 📫 How to reach me **prestondjones7@gmail.com**
+- How to reach me **prestondjones7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
