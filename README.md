@@ -1,5 +1,3 @@
-<h2 align="left">My name is Preston</h2>
-
 ###
 
 <div align="center">
