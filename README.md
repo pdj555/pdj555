@@ -1,7 +1,7 @@
 <h1 align="left">My name is Preston</h1>
 <h3 align="left">A developer from Oklahoma</h3>
 
-- I’m currently working on **Drug Repurposing using Machine Learning**
+- I’m currently working with **Large Language Models**
 
 - I’m currently learning **AI + Finance**
 
