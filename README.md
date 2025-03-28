@@ -1,9 +1,9 @@
 <h1 align="left">My name is Preston</h1>
 <h3 align="left">A developer from Oklahoma</h3>
 
-- I’m currently working with **AI Agents**
+- I’m currently working with **AI/ML Agents**
 
-- I’m learning **AI + Finance**
+- I’m learning **Machine Learning + Finance**
 
 ###
 
