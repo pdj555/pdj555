@@ -1,5 +1,9 @@
 <h1 align="center">Preston D. Jones</h1>
-<h3 align="center">Software Engineer | AI/ML Enthusiast | Finance Learner</h3>
+<h3 align="center">Software Engineer</h3>
+
+<p align="center">
+  Passionate about developing innovative solutions and leveraging technology to solve real-world problems.
+</p>
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<h2 align="left">Skills & Technologies</h2>
+<h2 align="left">Skills</h2>
 <ul>
   <li>Proficient in Python, Java, C++</li>
   <li>Experienced with React, JavaScript</li>
@@ -18,6 +22,10 @@
   <li>Familiar with Docker, Git, GitHub, GitLab</li>
   <li>Understanding of Machine Learning and Finance</li>
 </ul>
+
+###
+
+<h2 align="left">Technologies & Tools</h2>
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -96,6 +104,15 @@
 
 ###
 
-<p align="center">
-  Reach out via <a href="https://www.linkedin.com/in/pdj5/" target="_blank">LinkedIn</a> or <a href="mailto:prestondjones7@gmail.com" target="_blank">Email</a>.
-</p>
+<h2 align="left">Contact</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/pdj5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:prestondjones7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/408469444646666250" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
