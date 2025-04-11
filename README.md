@@ -118,7 +118,3 @@
 </div>
 
 ###
-
-<p align="center">
-  <em>Crafted with care and passion for technology.</em>
-</p>
