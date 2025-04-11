@@ -1,12 +1,31 @@
-<h1 align="left">My name is Preston</h1>
-<h3 align="left">A developer from Oklahoma</h3>
+<h1 align="center">Preston D. Jones</h1>
+<h3 align="center">Software Engineer | AI/ML Enthusiast | Finance Learner</h3>
 
-- I’m currently working with **AI/ML Agents**
-
-- I’m learning **Machine Learning + Finance**
+<p align="center">
+  Passionate about developing innovative solutions and leveraging technology to solve real-world problems.
+</p>
 
 ###
 
+<h2 align="left">About Me</h2>
+<p align="left">
+  Hello! I'm Preston, a software engineer with a passion for artificial intelligence, machine learning, and finance. I enjoy creating elegant and efficient solutions to complex problems. My goal is to leverage technology to make a positive impact on the world.
+</p>
+
+###
+
+<h2 align="left">Skills</h2>
+<ul>
+  <li>Proficient in Python, Java, C++</li>
+  <li>Experienced with React, JavaScript</li>
+  <li>Knowledgeable in AWS, Google Cloud</li>
+  <li>Familiar with Docker, Git, GitHub, GitLab</li>
+  <li>Understanding of Machine Learning and Finance</li>
+</ul>
+
+###
+
+<h2 align="left">Technologies & Tools</h2>
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -85,6 +104,7 @@
 
 ###
 
+<h2 align="left">Contact</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/pdj5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -98,3 +118,7 @@
 </div>
 
 ###
+
+<p align="center">
+  <em>Crafted with care and passion for technology.</em>
+</p>
