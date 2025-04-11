@@ -2,15 +2,21 @@
 <h3 align="center">Software Engineer | AI/ML Enthusiast | Finance Learner</h3>
 
 <p align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" />
+</p>
+
+<p align="center">
   Passionate about developing innovative solutions and leveraging technology to solve real-world problems.
 </p>
 
 ###
 
 <h2 align="left">About Me</h2>
-<p align="left">
-  Hello! I'm Preston, a software engineer with a passion for artificial intelligence, machine learning, and finance. I enjoy creating elegant and efficient solutions to complex problems. My goal is to leverage technology to make a positive impact on the world.
-</p>
+<ul>
+  <li>Software engineer with a passion for artificial intelligence, machine learning, and finance.</li>
+  <li>Enjoys creating elegant and efficient solutions to complex problems.</li>
+  <li>Aims to leverage technology to make a positive impact on the world.</li>
+</ul>
 
 ###
 
@@ -23,9 +29,6 @@
   <li>Understanding of Machine Learning and Finance</li>
 </ul>
 
-###
-
-<h2 align="left">Technologies & Tools</h2>
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -104,6 +107,15 @@
 
 ###
 
+<h2 align="left">Projects</h2>
+<ul>
+  <li><a href="https://github.com/pdj555/project1">Project 1</a> - Description of project 1.</li>
+  <li><a href="https://github.com/pdj555/project2">Project 2</a> - Description of project 2.</li>
+  <li><a href="https://github.com/pdj555/project3">Project 3</a> - Description of project 3.</li>
+</ul>
+
+###
+
 <h2 align="left">Contact</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/pdj5/" target="_blank">
@@ -118,3 +130,7 @@
 </div>
 
 ###
+
+<p align="center">
+  <em>Crafted with care and passion for technology.</em>
+</p>
