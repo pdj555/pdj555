@@ -11,9 +11,9 @@ AI/ML agent architectures with applications in quantitative finance.
 Machine Learning • Financial Systems • Autonomous Agents
 ```
 
-## Crafted With
+## Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" />
@@ -25,7 +25,7 @@ Machine Learning • Financial Systems • Autonomous Agents
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
 </div>
 
-<div align="left" style="padding-top: 8px">
+<div align="center" style="padding-top: 8px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="28" alt="AWS" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="28" alt="Google Cloud" />
@@ -41,7 +41,7 @@ Developing an agent-based system for optimizing financial decision-making throug
 
 ## Connect
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pdj5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
   </a>
