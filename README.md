@@ -8,7 +8,7 @@
 AI/ML agent architectures with applications in quantitative finance.
 
 ```
-Machine Learning • Financial Systems • Autonomous Agents
+Machine Learning • Financial Systems • Autonomous Agents • RAG
 ```
 
 ## Tools
