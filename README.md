@@ -70,7 +70,7 @@ Developing a reinforcement learning-driven agent for financial decision optimiza
 
 <div align="center">
 
-Based in Oklahoma
+Based in DTX
 
 </div>
 
