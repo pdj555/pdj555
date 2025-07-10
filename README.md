@@ -8,10 +8,6 @@
 
 </div>
 
-## Expertise
-
-Crafting agent-based AI architectures tailored for precision in quantitative finance.
-
 ## Toolkit
 
 <p align="center">
