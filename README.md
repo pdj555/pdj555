@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## Expertise
 
 Crafting agent-based AI architectures tailored for precision in quantitative finance.
@@ -53,12 +51,6 @@ Crafting agent-based AI architectures tailored for precision in quantitative fin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="28" />
   </a>
 </p>
-
-## Current Project
-
-Developing a reinforcement learning-driven agent for financial decision optimization.
-
----
 
 ## Connect
 
