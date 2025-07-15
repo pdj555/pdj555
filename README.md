@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/pdj5/) • [Email](mailto:prestondjones7@gmail.com) • [Discord](https://discord.com/users/408469444646666250)
+[LinkedIn](https://www.linkedin.com/in/pdj5/) • [Email](mailto:preston@pdjones.pro) • [Discord](https://discord.com/users/408469444646666250)
 
 </div>
 
