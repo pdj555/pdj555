@@ -35,9 +35,3 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="32" height="32" alt="Google Cloud" />
   </a>
 </p>
-
-## Focus
-
-<p align="center">
-  Market & Risk Systems · Production ML · Agentic Systems · RAG Architectures
-</p>
