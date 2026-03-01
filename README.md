@@ -1,5 +1,5 @@
 # Preston Jones
 
-Agentic infrastructure. Autonomous Systems. AI + markets.
+Agentic infrastructure. AI + markets. Autonomous systems.
 
-[LinkedIn](https://www.linkedin.com/in/pdj5/) · [Email](mailto:preston@pdjones.pro)
+[LinkedIn](https://www.linkedin.com/in/pdj5/) · [Email](mailto:p@pdj.dev)
