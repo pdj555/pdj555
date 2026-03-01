@@ -1,5 +1,5 @@
 # Preston Jones
 
-ML infrastructure at scale. Agentic intelligence for prediction markets and energy grids.
+Agentic infrastructure at scale. Agentic intelligence for financial, prediction, energy markets.
 
 [LinkedIn](https://www.linkedin.com/in/pdj5/) · [Email](mailto:preston@pdjones.pro)
