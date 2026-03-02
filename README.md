@@ -2,4 +2,4 @@
 
 AI + markets. Agentic infrastructure. Autonomous systems.
 
-[LinkedIn](https://www.linkedin.com/in/pdj5/) · [Email](mailto:p@pdj.dev)
+[Email](mailto:p@pdj.dev) · [LinkedIn](https://www.linkedin.com/in/pdj5/) · [Substack](https://pdj0.substack.com)
