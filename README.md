@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Preston Jones</strong><br/>
-  Markets · software · autonomous systems
+  markets · software · autonomous systems
 </p>
 
 <p align="center">&nbsp;</p>
