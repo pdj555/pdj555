@@ -6,13 +6,31 @@
   <a href="https://pdj0.substack.com">Substack</a>
 </p>
 
-<p align="center">&nbsp;</p>
+<br/>
 
-| | |
-| :-- | :-- |
-| [monte-carlo](https://github.com/pdj555/monte-carlo) | Forward simulation and walk-forward validation for portfolio decisions |
-| [job-engine](https://github.com/pdj555/job-engine) | Opportunity search ranked by effective compensation per hour |
-| [stock-sentiment-analysis](https://github.com/pdj555/stock-sentiment-analysis) | Equity news ingestion, classification, and sentiment reporting |
-| [energy-market-visualization](https://github.com/pdj555/energy-market-visualization) | Synthetic wholesale power telemetry with a reactive API and analytics dashboard |
-| [ethereum-blocks](https://github.com/pdj555/ethereum-blocks) | Block, address, and network exploration over a bundled Ethereum dataset |
-| [distributed-consensus-system](https://github.com/pdj555/distributed-consensus-system) | Modular Raft consensus in Java |
+<table>
+  <tr>
+    <td valign="top" width="220"><a href="https://github.com/pdj555/monte-carlo">monte-carlo</a></td>
+    <td>Forward simulation and walk-forward validation for portfolio decisions</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/job-engine">job-engine</a></td>
+    <td>Opportunity search ranked by effective compensation per hour</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/stock-sentiment-analysis">stock-sentiment-analysis</a></td>
+    <td>Equity news ingestion, classification, and sentiment reporting</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/energy-market-visualization">energy-market-visualization</a></td>
+    <td>Synthetic wholesale power telemetry with a reactive API and analytics dashboard</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/ethereum-blocks">ethereum-blocks</a></td>
+    <td>Block, address, and network exploration over a bundled Ethereum dataset</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/distributed-consensus-system">distributed-consensus-system</a></td>
+    <td>Modular Raft consensus in Java</td>
+  </tr>
+</table>
