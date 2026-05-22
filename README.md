@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Preston Jones</strong><br/>
-  agentic tools · autonomous systems · financial markets<br/>
+  financial markets · autonomous systems · agentic tools<br/>
   <a href="https://pdj.dev">pdj.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:p@pdj.dev">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
