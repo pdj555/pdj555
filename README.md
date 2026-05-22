@@ -9,8 +9,6 @@
 
 <br/>
 
-**Building** on GitHub. **Thinking** on [Substack](https://pdj0.substack.com).
-
 <table>
   <tr>
     <th colspan="2">Flagships</th>
