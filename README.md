@@ -30,4 +30,8 @@
     <td valign="top"><a href="https://github.com/pdj555/ethereum-blocks">ethereum-blocks</a></td>
     <td>Block, address, and network exploration over a bundled Ethereum dataset · <a href="https://blockchain-network-ui.vercel.app">link</a></td>
   </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/job-engine">job-engine</a></td>
+    <td>Find opportunities ranked by effective $/hour</td>
+  </tr>
 </table>
