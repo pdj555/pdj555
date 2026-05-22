@@ -30,7 +30,7 @@
     <td>Block, address, and network exploration over a bundled Ethereum dataset</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/pdj555/distributed-consensus-system">distributed-consensus-system</a></td>
+    <td valign="top"><a href="https://github.com/pdj555/raft-consensus">raft-consensus</a></td>
     <td>Modular Raft consensus in Java</td>
   </tr>
 </table>
