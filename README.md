@@ -15,7 +15,7 @@
     <td>Forward simulation and walk-forward validation for portfolio decisions</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/pdj555/energy-market-visualization">energy-market-visualization</a></td>
+    <td valign="top"><a href="https://github.com/pdj555/energy-markets">energy-markets</a></td>
     <td>Synthetic wholesale power telemetry with reactive API and analytics dashboard</td>
   </tr>
   <tr>
