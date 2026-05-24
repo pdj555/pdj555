@@ -1,7 +1,7 @@
 <p align="center">
   <strong>Preston Jones</strong><br/>
   financial markets · autonomous systems · agentic tools<br/>
-  <a href="https://pdj.dev">pdj.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://pdj.dev">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:p@pdj.dev">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://pdj0.substack.com">Substack</a>
