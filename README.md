@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/raft-consensus">raft-consensus</a></td>
-    <td>Modular Raft consensus in Java — algorithm, transport, and storage separated</td>
+    <td>Modular Raft consensus in Java - algorithm, transport, and storage separated</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/stock-sentiment-analysis">stock-sentiment-analysis</a></td>
