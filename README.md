@@ -31,10 +31,6 @@
     <td>Block, address, and network exploration over a bundled Ethereum dataset</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/pdj555/job-engine">job-engine</a></td>
-    <td>Find opportunities ranked by effective $/hour</td>
-  </tr>
-  <tr>
     <td valign="top"><a href="https://humanity-list.pdj.dev/">humanity-list</a></td>
     <td>Sifts through research papers for innovative research</td>
   </tr>
