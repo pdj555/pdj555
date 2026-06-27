@@ -8,7 +8,7 @@
 
 <br/>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="240"><a href="https://github.com/pdj555/monte-carlo">monte-carlo</a></td>
     <td>Forward simulation and walk-forward validation for portfolio decisions</td>
