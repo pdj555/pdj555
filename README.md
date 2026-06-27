@@ -3,8 +3,7 @@
   financial markets · autonomous systems · agentic tools<br/>
   <a href="https://pdj.dev">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:p@pdj.dev">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://pdj0.substack.com">Substack</a>
+  <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;
 </p>
 
 <br/>
