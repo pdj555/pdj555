@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Preston Jones</strong><br/>
-  financial markets · autonomous systems · agentic tools<br/>
+  financial markets · autonomous systems · agentic workflows<br/>
   <a href="https://pdj.dev">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:p@pdj.dev">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;
@@ -12,6 +12,10 @@
   <tr>
     <td valign="top" width="240"><a href="https://github.com/pdj555/monte-carlo">monte-carlo</a></td>
     <td>Forward simulation and walk-forward validation for portfolio decisions</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/agent-harness-oss">agent-harness</a></td>
+    <td>Agent OS to empower Large Language Models with premium tools, skills, and reasoning</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/energy-markets">energy-markets</a></td>
