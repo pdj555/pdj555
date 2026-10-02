@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/agent-harness-oss">agent-harness</a></td>
-    <td>Agent OS to empower Large Language Models with premium tools, skills, and reasoning</td>
+    <td>Coding agent with isolated execution, software verification, and independent review</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/energy-markets">energy-markets</a></td>
