@@ -1,44 +1,25 @@
-<p align="center">
-  <strong>Preston Jones</strong><br/>
-  financial markets · autonomous systems · agentic workflows<br/>
-  <a href="https://pdj.dev">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:p@pdj.dev">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;
-</p>
+# Preston Jones
 
-<br/>
+**Applied agentic AI. I build the infrastructure agents run on.**
 
-<table align="center">
-  <tr>
-    <td valign="top" width="240"><a href="https://github.com/signalgatingprotocol/python-sdk">Signal Gating Protocol</a></td>
-    <td>Alpha Python runtime for typed signals, composable gates, and observable agent routing</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/pdj555/monte-carlo">monte-carlo</a></td>
-    <td>Forward simulation and walk-forward validation for portfolio decisions</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/pdj555/agent-harness-oss">agent-harness</a></td>
-    <td>Coding agent with isolated execution, software verification, and independent review</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/pdj555/energy-markets">energy-markets</a></td>
-    <td>Synthetic wholesale power telemetry with reactive API and analytics dashboard</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/pdj555/raft-consensus">raft-consensus</a></td>
-    <td>Modular Raft consensus in Java - algorithm, transport, and storage separated</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/pdj555/stock-sentiment-analysis">stock-sentiment-analysis</a></td>
-    <td>Equity news ingestion, classification, and sentiment reporting</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/pdj555/ethereum-blocks">ethereum-blocks</a></td>
-    <td>Block, address, and network exploration over a bundled Ethereum dataset</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://humanity-list.pdj.dev/">humanity-list</a></td>
-    <td>Sifts through research papers for innovative research</td>
-  </tr>
-</table>
+In agentic systems since 2023, full time. Not model training. The applied layer: evals, environments, control, training data.
+
+## Building
+
+- [agent-eval-harness](https://github.com/pdj555/agent-eval-harness) - Eval harness for coding agents. Solve rate, cost, latency, ablations, statistical rigor.
+- [trajectory-to-training](https://github.com/pdj555/trajectory-to-training) - The data flywheel. Verified agent trajectories become SFT and preference datasets.
+- [hard-rag-evals](https://github.com/pdj555/hard-rag-evals) - 42 ways RAG breaks in production. Graded easy to brutal.
+- [agent-harness](https://github.com/pdj555/agent-harness-oss) - Coding agent with isolated execution and verification-gated completion.
+- [signal-gating-protocol](https://github.com/signalgatingprotocol/python-sdk) - Typed signals, composable gates, observable agent routing.
+
+## Thesis
+
+The frontier is not bigger models. It is the infrastructure around them: agent-native workspaces, real environments, evals that hold up, control that holds up, decision frameworks. I build that layer.
+
+## What I am not
+
+Not a model trainer. Not a prompt engineer.
+
+## Contact
+
+[pdj.dev](https://pdj.dev) · [p@pdj.dev](mailto:p@pdj.dev) · [LinkedIn](https://www.linkedin.com/in/pdj5/)
