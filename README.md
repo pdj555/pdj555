@@ -1,1 +1,56 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPHN0cm9uZz5QcmVzdG9uIEpvbmVzPC9zdHJvbmc+PGJyLz4KICBmaW5hbmNpYWwgbWFya2V0cyDCtyBhdXRvbm9tb3VzIHN5c3RlbXMgwrcgYWdlbnRpYyB0b29sczxici8+CiAgPGEgaHJlZj0iaHR0cHM6Ly9wZGouZGV2Ij5Qb3J0Zm9saW88L2E+Jm5ic3A7Jm5ic3A7wrcmbmJzcDsmbmJzcDsKICA8YSBocmVmPSJtYWlsdG86cEBwZGouZGV2Ij5FbWFpbDwvYT4mbmJzcDsmbmJzcDvCtyZuYnNwOyZuYnNwOwogIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9wZGo1LyI+TGlua2VkSW48L2E+Jm5ic3A7Jm5ic3A7CjwvcD4KCjxici8+Cgo8dGFibGUgYWxpZ249ImNlbnRlciI+CiAgPHRyPgogICAgPHRkIHZhbGlnbj0idG9wIiB3aWR0aD0iMjQwIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vcGRqNTU1L2FnZW50LWV2YWwtaGFybmVzcyI+YWdlbnQtZXZhbC1oYXJuZXNzPC9hPjwvdGQ+CiAgICA8dGQ+RXZhbCBoYXJuZXNzIGZvciBjb2RpbmcgYWdlbnRzIC0gc29sdmUgcmF0ZSwgY29zdCwgbGF0ZW5jeSwgYWJsYXRpb25zLCBzdGF0aXN0aWNhbCByaWdvcjwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGQgdmFsaWduPSJ0b3AiPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9wZGo1NTUvdHJhamVjdG9yeS10by10cmFpbmluZyI+dHJhamVjdG9yeS10by10cmFpbmluZzwvYT48L3RkPgogICAgPHRkPlRoZSBkYXRhIGZseXdoZWVsIC0gdmVyaWZpZWQgYWdlbnQgdHJhamVjdG9yaWVzIGJlY29tZSBTRlQgYW5kIHByZWZlcmVuY2UgZGF0YXNldHM8L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIHZhbGlnbj0idG9wIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vcGRqNTU1L2hhcmQtcmFnLWV2YWxzIj5oYXJkLXJhZy1ldmFsczwvYT48L3RkPgogICAgPHRkPjQyIHdheXMgUkFHIGJyZWFrcyBpbiBwcm9kdWN0aW9uIC0gZ3JhZGVkIGVhc3kgdG8gYnJ1dGFsPC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZCB2YWxpZ249InRvcCI+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3BkajU1NS9hZ2VudC1oYXJuZXNzLW9zcyI+YWdlbnQtaGFybmVzczwvYT48L3RkPgogICAgPHRkPkNvZGluZyBhZ2VudCB3aXRoIGlzb2xhdGVkIGV4ZWN1dGlvbiBhbmQgdmVyaWZpY2F0aW9uLWdhdGVkIGNvbXBsZXRpb248L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIHZhbGlnbj0idG9wIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vc2lnbmFsZ2F0aW5ncHJvdG9jb2wvcHl0aG9uLXNkayI+c2lnbmFsLWdhdGluZy1wcm90b2NvbDwvYT48L3RkPgogICAgPHRkPlR5cGVkIHNpZ25hbHMsIGNvbXBvc2FibGUgZ2F0ZXMsIG9ic2VydmFibGUgYWdlbnQgcm91dGluZzwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGQgdmFsaWduPSJ0b3AiIHdpZHRoPSIyNDAiPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9wZGo1NTUvbW9udGUtY2FybG8iPm1vbnRlLWNhcmxvPC9hPjwvdGQ+CiAgICA8dGQ+Rm9yd2FyZCBzaW11bGF0aW9uIGFuZCB3YWxrLWZvcndhcmQgdmFsaWRhdGlvbiBmb3IgcG9ydGZvbGlvIGRlY2lzaW9uczwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGQgdmFsaWduPSJ0b3AiPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9wZGo1NTUvZW5lcmd5LW1hcmtldHMiPmVuZXJneS1tYXJrZXRzPC9hPjwvdGQ+CiAgICA8dGQ+U3ludGhldGljIHdob2xlc2FsZSBwb3dlciB0ZWxlbWV0cnkgd2l0aCByZWFjdGl2ZSBBUEkgYW5kIGFuYWx5dGljcyBkYXNoYm9hcmQ8L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIHZhbGlnbj0idG9wIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vcGRqNTU1L3JhZnQtY29uc2Vuc3VzIj5yYWZ0LWNvbnNlbnN1czwvYT48L3RkPgogICAgPHRkPk1vZHVsYXIgUmFmdCBjb25zZW5zdXMgaW4gSmF2YSAtIGFsZ29yaXRobSwgdHJhbnNwb3J0LCBhbmQgc3RvcmFnZSBzZXBhcmF0ZWQ8L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIHZhbGlnbj0idG9wIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vcGRqNTU1L3N0b2NrLXNlbnRpbWVudC1hbmFseXNpcyI+c3RvY2stc2VudGltZW50LWFuYWx5c2lzPC9hPjwvdGQ+CiAgICA8dGQ+RXF1aXR5IG5ld3MgaW5nZXN0aW9uLCBjbGFzc2lmaWNhdGlvbiwgYW5kIHNlbnRpbWVudCByZXBvcnRpbmc8L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIHZhbGlnbj0idG9wIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vcGRqNTU1L2V0aGVyZXVtLWJsb2NrcyI+ZXRoZXJldW0tYmxvY2tzPC9hPjwvdGQ+CiAgICA8dGQ+QmxvY2ssIGFkZHJlc3MsIGFuZCBuZXR3b3JrIGV4cGxvcmF0aW9uIG92ZXIgYSBidW5kbGVkIEV0aGVyZXVtIGRhdGFzZXQ8L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIHZhbGlnbj0idG9wIj48YSBocmVmPSJodHRwczovL2h1bWFuaXR5LWxpc3QucGRqLmRldi8iPmh1bWFuaXR5LWxpc3Q8L2E+PC90ZD4KICAgIDx0ZD5TaWZ0cyB0aHJvdWdoIHJlc2VhcmNoIHBhcGVycyBmb3IgaW5ub3ZhdGl2ZSByZXNlYXJjaDwvdGQ+CiAgPC90cj4KPC90YWJsZT4K
+<p align="center">
+  <strong>Preston Jones</strong><br/>
+  financial markets · autonomous systems · agentic tools<br/>
+  <a href="https://pdj.dev">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:p@pdj.dev">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="240"><a href="https://github.com/pdj555/agent-eval-harness">agent-eval-harness</a></td>
+    <td>Eval harness for coding agents - solve rate, cost, latency, ablations, statistical rigor</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/trajectory-to-training">trajectory-to-training</a></td>
+    <td>The data flywheel - verified agent trajectories become SFT and preference datasets</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/hard-rag-evals">hard-rag-evals</a></td>
+    <td>42 ways RAG breaks in production - graded easy to brutal</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/agent-harness-oss">agent-harness</a></td>
+    <td>Coding agent with isolated execution and verification-gated completion</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/signalgatingprotocol/python-sdk">signal-gating-protocol</a></td>
+    <td>Typed signals, composable gates, observable agent routing</td>
+  </tr>
+  <tr>
+    <td valign="top" width="240"><a href="https://github.com/pdj555/monte-carlo">monte-carlo</a></td>
+    <td>Forward simulation and walk-forward validation for portfolio decisions</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/energy-markets">energy-markets</a></td>
+    <td>Synthetic wholesale power telemetry with reactive API and analytics dashboard</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/raft-consensus">raft-consensus</a></td>
+    <td>Modular Raft consensus in Java - algorithm, transport, and storage separated</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/stock-sentiment-analysis">stock-sentiment-analysis</a></td>
+    <td>Equity news ingestion, classification, and sentiment reporting</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/pdj555/ethereum-blocks">ethereum-blocks</a></td>
+    <td>Block, address, and network exploration over a bundled Ethereum dataset</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://humanity-list.pdj.dev/">humanity-list</a></td>
+    <td>Sifts through research papers for innovative research</td>
+  </tr>
+</table>
