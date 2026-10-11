@@ -7,7 +7,6 @@
 </p>
 
 <br/>
-
 <table align="center">
   <tr>
     <td valign="top" width="240"><a href="https://github.com/pdj555/agent-eval-harness">agent-eval-harness</a></td>
