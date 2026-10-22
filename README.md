@@ -11,6 +11,15 @@
   Agents write code faster than anyone can review it. These four repos work on that question.
 </p>
 
+<p align="center">
+  <a href="https://github.com/pdj555/agent-harness/blob/main/docs/research.md">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdj555/agent-harness/main/docs/assets/hero-dark.svg">
+      <img alt="Tests caught 0 of 27 sabotaged changes. A Claude Haiku 5.5 reviewer and an executable spec each caught 27 of 27, with no honest fixes blocked." src="https://raw.githubusercontent.com/pdj555/agent-harness/main/docs/assets/hero-light.svg" width="720">
+    </picture>
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td valign="top" width="240"><a href="https://github.com/pdj555/agent-harness">agent-harness</a></td>
