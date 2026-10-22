@@ -6,20 +6,6 @@
   <a href="https://www.linkedin.com/in/pdj5/">LinkedIn</a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <strong>How can we trust agents to merge without a human reading every diff?</strong><br/>
-  Agents write code faster than anyone can review it. These four repos work on that question.
-</p>
-
-<p align="center">
-  <a href="https://github.com/pdj555/agent-harness/blob/main/docs/research.md">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdj555/agent-harness/main/docs/assets/hero-dark.svg">
-      <img alt="Dot chart of 27 sabotaged changes that all pass their tests: the project's tests catch 0, diff rules 6, a Claude Haiku 5.5 reviewer 27, and an executable spec 27." src="https://raw.githubusercontent.com/pdj555/agent-harness/main/docs/assets/hero-light.svg" width="720">
-    </picture>
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td valign="top" width="240"><a href="https://github.com/pdj555/agent-harness">agent-harness</a></td>
@@ -37,12 +23,6 @@
     <td valign="top"><a href="https://github.com/pdj555/hard-rag-evals">hard-rag-evals</a></td>
     <td>The same question for answers. 42 RAG failure modes, and which grader checks can be gamed</td>
   </tr>
-</table>
-
-<br/>
-<p align="center"><strong>Other work</strong></p>
-
-<table align="center">
   <tr>
     <td valign="top" width="240"><a href="https://github.com/signalgatingprotocol/python-sdk">signal-gating-protocol</a></td>
     <td>Typed signals, composable gates, observable agent routing</td>
