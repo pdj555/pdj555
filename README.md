@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td valign="top" width="240"><a href="https://github.com/pdj555/agent-harness">agent-harness</a></td>
-    <td>The merge gate. 27 sabotaged changes pass every test: tests catch 0, an executable spec catches 27, and 2 attacks built for the spec beat it. <a href="https://github.com/pdj555/agent-harness/blob/main/docs/research.md">Research summary</a></td>
+    <td>The merge gate - 27 sabotaged changes pass every test: tests catch 0, an executable spec catches 27, and 2 attacks built for the spec beat it. <a href="https://github.com/pdj555/agent-harness/blob/main/docs/research.md">Research summary</a></td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/agent-eval-harness">agent-eval-harness</a></td>
