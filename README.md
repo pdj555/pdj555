@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/hard-rag-evals">hard-rag-evals</a></td>
-    <td>The same question for answers. 42 RAG failure modes, and which grader checks can be gamed</td>
+    <td>The same question for answers, 42 RAG failure modes, and which grader checks can be gamed</td>
   </tr>
   <tr>
     <td valign="top" width="240"><a href="https://github.com/signalgatingprotocol/python-sdk">signal-gating-protocol</a></td>
