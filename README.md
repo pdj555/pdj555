@@ -13,11 +13,11 @@
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/agent-eval-harness">agent-eval-harness</a></td>
-    <td>Passing isn't solving, a special-casing agent passes 2 of 2 by the tests and 0 of 2 on hidden inputs</td>
+    <td>Passing isn't solving, a special casing agent passes 2 of 2 by the tests and 0 of 2 on hidden inputs</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/trajectory-to-training">trajectory-to-training</a></td>
-    <td>With tests as the only label, 4 of 10 fine-tuning rows came from runs that gamed their tests</td>
+    <td>With tests as the only label, 4 of 10 fine tuning rows came from runs that gamed their tests</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/hard-rag-evals">hard-rag-evals</a></td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/monte-carlo">monte-carlo</a></td>
-    <td>Forward simulation and walk-forward validation for portfolio decisions</td>
+    <td>Forward simulation and walk forward validation for portfolio decisions</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/energy-markets">energy-markets</a></td>
