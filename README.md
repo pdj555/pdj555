@@ -15,7 +15,7 @@
   <a href="https://github.com/pdj555/agent-harness/blob/main/docs/research.md">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdj555/agent-harness/main/docs/assets/hero-dark.svg">
-      <img alt="Tests caught 0 of 27 sabotaged changes. A Claude Haiku 5.5 reviewer and an executable spec each caught 27 of 27, with no honest fixes blocked." src="https://raw.githubusercontent.com/pdj555/agent-harness/main/docs/assets/hero-light.svg" width="720">
+      <img alt="Tests caught 0 of 27 sabotaged changes. A Claude Haiku 5.5 reviewer and an executable spec each caught 27 of 27, with no honest fixes blocked. Two attacks written to beat the spec got past it." src="https://raw.githubusercontent.com/pdj555/agent-harness/main/docs/assets/hero-light.svg" width="720">
     </picture>
   </a>
 </p>
@@ -23,19 +23,19 @@
 <table align="center">
   <tr>
     <td valign="top" width="240"><a href="https://github.com/pdj555/agent-harness">agent-harness</a></td>
-    <td>The merge gate. 27 sabotaged changes pass every test: tests catch 0, an executable spec catches 27. <a href="https://github.com/pdj555/agent-harness/blob/main/docs/research.md">Research summary</a></td>
+    <td>The merge gate. 27 sabotaged changes pass every test: tests catch 0, an executable spec catches 27, and 2 attacks built for the spec beat it. <a href="https://github.com/pdj555/agent-harness/blob/main/docs/research.md">Research summary</a></td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/agent-eval-harness">agent-eval-harness</a></td>
-    <td>Is the agent good enough, and does it stay in bounds. Solve rate with intervals, plus containment checks</td>
+    <td>Passing isn't solving. A special-casing agent passes 2 of 2 by the tests and 0 of 2 on hidden inputs</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/trajectory-to-training">trajectory-to-training</a></td>
-    <td>Verified runs become training data, so whatever games the check gets trained in</td>
+    <td>With tests as the only label, 4 of 10 fine-tuning rows came from runs that gamed their tests</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/hard-rag-evals">hard-rag-evals</a></td>
-    <td>The same question for answers. 42 RAG failure modes, graded easy to brutal</td>
+    <td>The same question for answers. 42 RAG failure modes, and which grader checks can be gamed</td>
   </tr>
 </table>
 
