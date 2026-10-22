@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/agent-eval-harness">agent-eval-harness</a></td>
-    <td>Passing isn't solving. A special-casing agent passes 2 of 2 by the tests and 0 of 2 on hidden inputs</td>
+    <td>Passing isn't solving, a special-casing agent passes 2 of 2 by the tests and 0 of 2 on hidden inputs</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/pdj555/trajectory-to-training">trajectory-to-training</a></td>
