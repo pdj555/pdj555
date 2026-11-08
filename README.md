@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Preston Jones</strong><br/>
-  <a href="https://pdj.dev">pdj.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:p@pdj.dev">p@pdj.dev</a>
+  <a href="https://pdj.dev">pdj.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/pdj555">Hugging Face</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:p@pdj.dev">p@pdj.dev</a>
 </p>
 
 <br/>
